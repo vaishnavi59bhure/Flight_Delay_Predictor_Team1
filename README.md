@@ -97,12 +97,7 @@ This dataset provides a wealth of features that describe the flight operations a
 | **AirTime**                                          | Actual flight time in minutes.                                                                                                                                             |
 | **Flights**                                          | Number of flights.                                                                                                                                                         |
 | **Distance**                                         | Distance between origin and destination airports (in miles).                                                                                                               |
-| **DistanceGroup**                                    | Distance intervals (every 250 miles).                                                                                                                                       |
-| **CarrierDelay**                                     | Delay due to carrier issues (in minutes).                                                                                                                                   |
-| **WeatherDelay**                                     | Delay due to weather issues (in minutes).                                                                                                                                   |
-| **NASDelay**                                         | Delay due to National Air System issues (in minutes).                                                                                                                     |
-| **SecurityDelay**                                    | Delay due to security issues (in minutes).                                                                                                                                  |
-| **LateAircraftDelay**                                | Delay due to late-arriving aircraft (in minutes).                                                                                                                           |
+| **DistanceGroup**                                    | Distance intervals (every 250 miles).                                                                                                                                       |                                                                                                                           |
 
 ---
 
